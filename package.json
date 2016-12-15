@@ -1,9 +1,8 @@
 {
-  "name": "sails",
-  "author": "Mike McNeil <@mikermcneil>",
-  "version": "0.12.0-rc3",
-  "description": "API-driven framework for building realtime apps, using MVC conventions (based on Express and Socket.io)",
-  "homepage": "http://sailsjs.org",
+  "name": "sails-sequelize",
+  "author": "Hokkoo",
+  "version": "0.1",
+  "homepage": "https://github.com/hokkoo/sails",
   "keywords": [
     "mvc",
     "web-framework",
